@@ -1,0 +1,4 @@
+[submodule "ovnicraft/account-analytic"]
+	path = ovnicraft/account-analytic
+	url = git@github.com:ovnicraft/account-analytic.git
+	branch = 10.0-mig-pos-analytic
