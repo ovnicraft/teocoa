@@ -2,3 +2,8 @@
 	path = ovnicraft/account-analytic
 	url = git@github.com:ovnicraft/account-analytic.git
 	branch = 10.0-mig-pos-analytic
+
+[submodule "OCA/account-financial-reporting"]
+	path = OCA/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 10.0
