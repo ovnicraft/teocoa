@@ -63,3 +63,8 @@
 [submodule "odooec"]
 	path = odooec
 	url = git@github.com:ovnicraft/odooec.git
+
+[submodule "OCA/queue"]
+	path = OCA/queue
+	url = git@github.com:OCA/queue.git
+	branch = 10.0
